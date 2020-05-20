@@ -1,0 +1,30 @@
+{
+  "name": "Next.js_tutorial",
+  "version": "1.0.0",
+  "description": "### React serverside Framwork Next.js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-miniyoung/Next.js_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-miniyoung/Next.js_tutorial/issues"
+  },
+  "homepage": "https://github.com/Dev-miniyoung/Next.js_tutorial#readme",
+  "dependencies": {
+    "next": "^9.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
