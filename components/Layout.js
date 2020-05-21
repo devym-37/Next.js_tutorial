@@ -9,7 +9,7 @@ const layoutStyle = {
 const Layout = (props) => (
   <div style={layoutStyle}>
     {console.log("props", props)}
-    <Header />
+
     {props.children}
   </div>
 );
