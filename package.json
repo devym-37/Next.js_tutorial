@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Dev-miniyoung/Next.js_tutorial#readme",
   "dependencies": {
-    "next": "^9.4.1",
+    "next": "^11.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
